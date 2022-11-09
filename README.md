@@ -11,8 +11,9 @@ I thrive to learn and educate myself, I am on a <i> continuous learning journey 
 
 
 ## Skills
-- Data analysis and Visualization :chart_with_upwards_trend:
-- Machine learning and Deep learning 
+- Data analysis and visualization :chart_with_upwards_trend:
+- Machine learning and Deep learning 🖥️
+- Computer vision 👀
 
 ## Contact
  
