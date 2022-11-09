@@ -1,6 +1,7 @@
-## Hello there!
+
 <div style="text-align: justify">
-<img align="right" width="250" src="assets\hello.png">
+<h2> Hello there! </h2>
+<img align="right" width="300" src="assets\hello.png">
 <b> I am Ahmed Alshenoudy, a Master's degree student at Johannes Kepler University in Linz and an AI Software Developer at RISC GmbH. </b>
 <br />
 <br />
@@ -9,11 +10,33 @@ I thrive to learn and educate myself, I am on a <i> continuous learning journey 
 <br />
 </div>
 
+<div style="text-align: left">
+<br />
+<br />
+<img align="left" width="300" src="assets\future.png">
 
+<h2>Skills & Knowledge</h2>
+I am currrently expanding and growing my set of skills and knowledge, however I consider myself strong in the following:<br />
+<br />
+📈 Data Analysis and Visualization <br />
+🧠 Machine learning and Deep learning <br />
+👀 Computer Vision <br />
+💻 Python programming <br />
+<br />
+In addition, I am currently learning more about Docker, GO, SQL and SQL as they are quite essential for deployment and MLOps.
+<br />
+<br />
+</div>
+
+
+
+<!--
 ## Skills
 - Data analysis and visualization :chart_with_upwards_trend:
 - Machine learning and Deep learning 🖥️
 - Computer vision 👀
+-->
+
 
 ## Contact
  
