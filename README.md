@@ -5,7 +5,7 @@
 <b> I am Ahmed Alshenoudy, a Master's student at Johannes Kepler University in Linz and an AI Software Developer at RISC GmbH. </b>
 <br />
 <br />
-I thrive to learn and educate myself, I am on a <i> continuous learning journey </i> where I always look for personal and professional growth. Currently I am finalizing my master's thesis project and studies, where I am expecting to <i> graduate </i> in the 2022-2023 winter semester. I am interested in being part of a team where I get to apply my knowledge, challenge myself and grow, while working on innovative projects that applies machine learning or deep learning to real life problems.
+I thrive to learn and educate myself, I am on a <i> continuous learning journey </i> where I always look for personal and professional growth. Currently I am finalizing my master's thesis project and studies, where I am expecting to <i> graduate </i> in the 2022-2023 winter semester. I am interested in being part of a team where I get to apply my knowledge, challenge myself and grow, while working on innovative projects that applies machine learning or deep learning to real life challenges.
 <br />
 <br />
 </div>
@@ -23,38 +23,27 @@ I am currrently expanding and growing my set of skills and knowledge, however I 
 👀 Computer Vision <br />
 💻 Python programming <br />
 <br />
-In addition, I am currently learning more about Docker, GO and SQL as they are quite essential for deployment and MLOps.
+In addition, I am currently learning more about Docker, GO, SQL and Cloud Computing as they are quite essential for MLOps.
 <br />
 <br />
 </div>
 
 
+<div style="text-align: left">
+<br />
+<br />
+<img align="right" width="300" src="assets\home_office.png">
 
-<!--
-## Skills
-- Data analysis and visualization :chart_with_upwards_trend:
-- Machine learning and Deep learning 🖥️
-- Computer vision 👀
--->
-
-
-## Contact
+<h2>Projects</h2>
+As I am finalizing my studies, most of my time is currently dedicated to my thesis project, in this project I am working on exploiting learned representations from state of the art generative models (diffusion models) for the down-stream task of semantic segmentation applied to a 2D dataset extracted from the BraTs 2021 training data.
+</div>
  
+ 
+<div style="text-align: left">
+<br />
+<br />
+<img align="right" width="300" src="assets\contact.png">
 
-
-
-
-<!--
-**alshenoudy/alshenoudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact</h2>
+TODO: add contact icons/links
+</div>
