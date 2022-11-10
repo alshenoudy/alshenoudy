@@ -8,6 +8,7 @@
 I thrive to learn and educate myself, I am on a <i> continuous learning journey </i> where I always look for personal and professional growth. Currently I am finalizing my master's thesis project and studies, where I am expecting to <i> graduate </i> in the 2022-2023 winter semester. I am interested in being part of a team where I get to apply my knowledge, challenge myself and grow, while working on innovative projects that applies machine learning or deep learning to real life challenges.
 <br />
 <br />
+<br />
 </div>
 
 <div style="text-align: left">
@@ -26,6 +27,7 @@ I am currrently expanding and growing my set of skills and knowledge, however I 
 In addition, I am currently learning more about Docker, GO, SQL and Cloud Computing as they are quite essential for MLOps.
 <br />
 <br />
+<br />
 </div>
 
 
@@ -36,6 +38,7 @@ In addition, I am currently learning more about Docker, GO, SQL and Cloud Comput
 
 <h2>Current Projects</h2>
 As I am finalizing my studies, most of my time is currently dedicated to my thesis project, in this project I am working on exploiting learned representations from state of the art generative models (diffusion models) for the down-stream task of semantic segmentation applied to a 2D dataset extracted from the BraTs 2021 training data.
+<br />
 <br />
 <br />
 </div>
